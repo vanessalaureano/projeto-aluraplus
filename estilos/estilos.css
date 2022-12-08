@@ -178,6 +178,10 @@ body {
         width: 50vw;
     }
 
+    .dispositivos__titulo {
+        padding: 0 16px;
+    }
+
     .dispositivos__lista {
         display: block;
     }
